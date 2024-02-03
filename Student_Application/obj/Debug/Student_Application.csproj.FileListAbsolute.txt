@@ -1,0 +1,22 @@
+C:\Profound 15\Windows Application\Student_Application\Student_Application\bin\Debug\Student_Application.exe.config
+C:\Profound 15\Windows Application\Student_Application\Student_Application\bin\Debug\Student_Application.exe
+C:\Profound 15\Windows Application\Student_Application\Student_Application\bin\Debug\Student_Application.pdb
+C:\Profound 15\Windows Application\Student_Application\Student_Application\obj\Debug\Student_Application.csproj.AssemblyReference.cache
+C:\Profound 15\Windows Application\Student_Application\Student_Application\obj\Debug\Student_Application.Form1.resources
+C:\Profound 15\Windows Application\Student_Application\Student_Application\obj\Debug\Student_Application.Properties.Resources.resources
+C:\Profound 15\Windows Application\Student_Application\Student_Application\obj\Debug\Student_Application.csproj.GenerateResource.cache
+C:\Profound 15\Windows Application\Student_Application\Student_Application\obj\Debug\Student_Application.csproj.CoreCompileInputs.cache
+C:\Profound 15\Windows Application\Student_Application\Student_Application\obj\Debug\Student_Application.exe
+C:\Profound 15\Windows Application\Student_Application\Student_Application\obj\Debug\Student_Application.pdb
+C:\Profound 15\Windows Application\Student_Application\Student_Application\obj\Debug\Student_Application.Login.resources
+C:\SS\Project\Student_Application\Student_Application\bin\Debug\Student_Application.exe.config
+C:\SS\Project\Student_Application\Student_Application\bin\Debug\Student_Application.exe
+C:\SS\Project\Student_Application\Student_Application\bin\Debug\Student_Application.pdb
+C:\SS\Project\Student_Application\Student_Application\obj\Debug\Student_Application.csproj.AssemblyReference.cache
+C:\SS\Project\Student_Application\Student_Application\obj\Debug\Student_Application.Form1.resources
+C:\SS\Project\Student_Application\Student_Application\obj\Debug\Student_Application.Login.resources
+C:\SS\Project\Student_Application\Student_Application\obj\Debug\Student_Application.Properties.Resources.resources
+C:\SS\Project\Student_Application\Student_Application\obj\Debug\Student_Application.csproj.GenerateResource.cache
+C:\SS\Project\Student_Application\Student_Application\obj\Debug\Student_Application.csproj.CoreCompileInputs.cache
+C:\SS\Project\Student_Application\Student_Application\obj\Debug\Student_Application.exe
+C:\SS\Project\Student_Application\Student_Application\obj\Debug\Student_Application.pdb
